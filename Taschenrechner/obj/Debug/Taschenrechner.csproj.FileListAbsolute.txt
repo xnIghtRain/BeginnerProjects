@@ -1,0 +1,9 @@
+C:\Users\phamt\source\repos\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\phamt\source\repos\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\phamt\source\repos\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Users\phamt\source\repos\Taschenrechner\obj\Debug\Taschenrechner.csprojAssemblyReference.cache
+C:\Users\phamt\source\repos\Taschenrechner\obj\Debug\Taschenrechner.Taschenrechner.resources
+C:\Users\phamt\source\repos\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+C:\Users\phamt\source\repos\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+C:\Users\phamt\source\repos\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\phamt\source\repos\Taschenrechner\obj\Debug\Taschenrechner.pdb
