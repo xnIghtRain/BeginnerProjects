@@ -1,0 +1,10 @@
+C:\Users\xnigh\Source\Repos\StopUhr\StopUhr\bin\Debug\StopUhr.exe.config
+C:\Users\xnigh\Source\Repos\StopUhr\StopUhr\bin\Debug\StopUhr.exe
+C:\Users\xnigh\Source\Repos\StopUhr\StopUhr\bin\Debug\StopUhr.pdb
+C:\Users\xnigh\Source\Repos\StopUhr\StopUhr\obj\Debug\StopUhr.csprojAssemblyReference.cache
+C:\Users\xnigh\Source\Repos\StopUhr\StopUhr\obj\Debug\StopUhr.Form1.resources
+C:\Users\xnigh\Source\Repos\StopUhr\StopUhr\obj\Debug\StopUhr.Properties.Resources.resources
+C:\Users\xnigh\Source\Repos\StopUhr\StopUhr\obj\Debug\StopUhr.csproj.GenerateResource.cache
+C:\Users\xnigh\Source\Repos\StopUhr\StopUhr\obj\Debug\StopUhr.csproj.CoreCompileInputs.cache
+C:\Users\xnigh\Source\Repos\StopUhr\StopUhr\obj\Debug\StopUhr.exe
+C:\Users\xnigh\Source\Repos\StopUhr\StopUhr\obj\Debug\StopUhr.pdb
