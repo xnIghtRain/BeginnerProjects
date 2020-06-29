@@ -18,17 +18,17 @@ namespace Mehrwertsteuer
         }
 
         // Variablen setzen
-        double  a, b, c, d;        
+        double  netto, teilmwst, brutto, mwst;        
         
         // Buttons
         private void button1_Click(object sender, EventArgs e)
         {
-            a = double.Parse(textBox1.Text);
-            b = a * d;
-            c = a + a * d;
-            textBox1.Text = a.ToString("0.00");
-            textBox2.Text = b.ToString("0.00");
-            textBox3.Text = c.ToString("0.00");
+            netto = double.Parse(textBox1.Text);
+            teilmwst = netto * mwst;
+            brutto = netto + netto * mwst;
+            textBox1.Text = netto.ToString("0.00");
+            textBox2.Text = teilmwst.ToString("0.00");
+            textBox3.Text = brutto.ToString("0.00");
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -42,23 +42,23 @@ namespace Mehrwertsteuer
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
-            b = double.Parse(radioButton1.Text);
-            d = b / 100; ; 
+            mwst = double.Parse(radioButton1.Text);
+            teilmwst = mwst / 100; ; 
         }
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
-            b = double.Parse(radioButton2.Text);
-            d = b / 100; ;
+            mwst = double.Parse(radioButton2.Text);
+            teilmwst = mwst / 100; ;
         }
 
         private void radioButton3_CheckedChanged(object sender, EventArgs e)
         {   
             if (textBox4.Text != null)
             {
-                b = double.Parse(textBox4.Text);                
+                mwst = double.Parse(textBox4.Text);                
                 //textBox2.Text = Convert.ToString(b/100);
-                d = b / 100;
+                teilmwst = mwst / 100;
             }
         }
 
