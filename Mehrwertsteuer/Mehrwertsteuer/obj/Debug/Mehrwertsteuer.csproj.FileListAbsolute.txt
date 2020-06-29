@@ -1,0 +1,10 @@
+C:\Users\xnigh\Source\Repos\Mehrwertsteuer\Mehrwertsteuer\bin\Debug\Mehrwertsteuer.exe.config
+C:\Users\xnigh\Source\Repos\Mehrwertsteuer\Mehrwertsteuer\bin\Debug\Mehrwertsteuer.exe
+C:\Users\xnigh\Source\Repos\Mehrwertsteuer\Mehrwertsteuer\bin\Debug\Mehrwertsteuer.pdb
+C:\Users\xnigh\Source\Repos\Mehrwertsteuer\Mehrwertsteuer\obj\Debug\Mehrwertsteuer.csprojAssemblyReference.cache
+C:\Users\xnigh\Source\Repos\Mehrwertsteuer\Mehrwertsteuer\obj\Debug\Mehrwertsteuer.Form1.resources
+C:\Users\xnigh\Source\Repos\Mehrwertsteuer\Mehrwertsteuer\obj\Debug\Mehrwertsteuer.Properties.Resources.resources
+C:\Users\xnigh\Source\Repos\Mehrwertsteuer\Mehrwertsteuer\obj\Debug\Mehrwertsteuer.csproj.GenerateResource.cache
+C:\Users\xnigh\Source\Repos\Mehrwertsteuer\Mehrwertsteuer\obj\Debug\Mehrwertsteuer.csproj.CoreCompileInputs.cache
+C:\Users\xnigh\Source\Repos\Mehrwertsteuer\Mehrwertsteuer\obj\Debug\Mehrwertsteuer.exe
+C:\Users\xnigh\Source\Repos\Mehrwertsteuer\Mehrwertsteuer\obj\Debug\Mehrwertsteuer.pdb
