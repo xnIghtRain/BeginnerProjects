@@ -42,12 +42,14 @@ namespace Mehrwertsteuer
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
-            d = 0.07; 
+            b = double.Parse(radioButton1.Text);
+            d = b / 100; ; 
         }
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
-            d = 0.19;
+            b = double.Parse(radioButton2.Text);
+            d = b / 100; ;
         }
 
         private void radioButton3_CheckedChanged(object sender, EventArgs e)
