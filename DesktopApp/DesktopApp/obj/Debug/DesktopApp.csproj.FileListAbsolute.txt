@@ -1,0 +1,13 @@
+C:\Users\xnigh\Source\Repos\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe.config
+C:\Users\xnigh\Source\Repos\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe
+C:\Users\xnigh\Source\Repos\DesktopApp\DesktopApp\bin\Debug\DesktopApp.pdb
+C:\Users\xnigh\Source\Repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csprojAssemblyReference.cache
+C:\Users\xnigh\Source\Repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Form1.resources
+C:\Users\xnigh\Source\Repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+C:\Users\xnigh\Source\Repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.UserControl1.resources
+C:\Users\xnigh\Source\Repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.cache
+C:\Users\xnigh\Source\Repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\xnigh\Source\Repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.exe
+C:\Users\xnigh\Source\Repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.pdb
+C:\Users\xnigh\Source\Repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.FirstCustomControl.resources
+C:\Users\xnigh\Source\Repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.MySecondUserControl.resources
