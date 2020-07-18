@@ -1,0 +1,9 @@
+C:\Users\phamt\source\repos\T Rex Runner\bin\Debug\T Rex Runner.exe.config
+C:\Users\phamt\source\repos\T Rex Runner\bin\Debug\T Rex Runner.exe
+C:\Users\phamt\source\repos\T Rex Runner\bin\Debug\T Rex Runner.pdb
+C:\Users\phamt\source\repos\T Rex Runner\obj\Debug\T Rex Runner.csprojAssemblyReference.cache
+C:\Users\phamt\source\repos\T Rex Runner\obj\Debug\T_Rex_Runner.Form1.resources
+C:\Users\phamt\source\repos\T Rex Runner\obj\Debug\T_Rex_Runner.Properties.Resources.resources
+C:\Users\phamt\source\repos\T Rex Runner\obj\Debug\T Rex Runner.csproj.GenerateResource.cache
+C:\Users\phamt\source\repos\T Rex Runner\obj\Debug\T Rex Runner.exe
+C:\Users\phamt\source\repos\T Rex Runner\obj\Debug\T Rex Runner.pdb
